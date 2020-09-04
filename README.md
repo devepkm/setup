@@ -1,7 +1,7 @@
 # setup
 
-homebrew
-chrome
-firefox
-vscode studio
-idea
+- homebrew
+- chrome | adblock
+- firefox : | video speed controller | adblock | youtube enhancer
+- vscode studio
+- idea

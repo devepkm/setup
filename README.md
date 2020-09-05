@@ -9,6 +9,6 @@
 
 
 ## config zsh for mysql
-vim ~/.zshrc
-export PATH=${PATH}:/usr/local/mysql/bin/
-source ~/.zshrc
+1. vim ~/.zshrc
+2. export PATH=${PATH}:/usr/local/mysql/bin/
+3. source ~/.zshrc

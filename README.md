@@ -7,6 +7,15 @@
 - idea
 
 
+## config zsh for git autocompletion
+```cmd
+vim ~/.zshrc
+
+autoload -Uz compinit && compinit -u
+
+source ~/.zshrc
+```
+
 
 ## config zsh for mysql
 ```cmd
